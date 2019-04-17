@@ -32,6 +32,9 @@ gem 'jbuilder', '~> 2.5'
 # Using dotenv-rails
 gem 'dotenv-rails'
 
+# Using freee/api
+gem 'freee-api'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
